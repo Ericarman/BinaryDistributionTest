@@ -1,0 +1,11 @@
+framework module MyTour {
+  umbrella header "MyTour.h"
+  export *
+
+  module * { export * }
+}
+
+module MyTour.Swift {
+  header "MyTour-Swift.h"
+  requires objc
+}
