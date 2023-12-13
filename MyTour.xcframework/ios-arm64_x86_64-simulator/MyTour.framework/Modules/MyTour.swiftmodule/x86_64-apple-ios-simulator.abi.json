@@ -20,6 +20,27 @@
         "printedName": "Test",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Test",
+                "printedName": "MyTour.Test",
+                "usr": "s:6MyTour4TestC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:6MyTour4TestCACycfc",
+            "mangledName": "$s6MyTour4TestCACycfc",
+            "moduleName": "MyTour",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "test",
             "printedName": "test()",
@@ -48,8 +69,7 @@
         "declAttributes": [
           "Final",
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       }
     ],
     "json_format_version": 8
@@ -58,7 +78,7 @@
     {
       "filePath": "\/Users\/erichovhannisyan\/Developer\/MyTour\/MyTour\/MyTour\/Test.swift",
       "kind": "StringLiteral",
-      "offset": 205,
+      "offset": 212,
       "length": 7,
       "value": "\"aaaaa\""
     }

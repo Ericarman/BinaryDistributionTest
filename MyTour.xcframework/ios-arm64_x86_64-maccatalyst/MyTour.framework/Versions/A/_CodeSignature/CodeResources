@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ub4GQb0vQd3gUATs3Kk4P+AzeTDeOoLWj2QJV5LpRbY=
+			Xv7/vQyT5KX7MmwORi2DbnhImlsO0uA2Jj4sU7eLuyk=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			czisKozWmnexOxcG1f7DJl6gew8ksUSQonU/YkjmbrE=
+			Jelp0IPg/y9GltVcAy4s2BiYil5UQJWsdg3t59WAW7o=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			czisKozWmnexOxcG1f7DJl6gew8ksUSQonU/YkjmbrE=
+			Jelp0IPg/y9GltVcAy4s2BiYil5UQJWsdg3t59WAW7o=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			191xkrsH8Q+LVupqKF2AI+k5sIs6rx1IQu4UPCipzt0=
+			wW+3GChG4cmsXU6tMaMMsydZxX61JOX/yr9qhaLjdfw=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ub4GQb0vQd3gUATs3Kk4P+AzeTDeOoLWj2QJV5LpRbY=
+			Xv7/vQyT5KX7MmwORi2DbnhImlsO0uA2Jj4sU7eLuyk=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqAIjdCU0AYF5Y3USV/GBDIfR7UtUwMtH5FPvJU+BDE=
+			2mNkqEk9e/EjhlA9QP0l+Lc89pcy0NXnCHe4lsOqtyI=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqAIjdCU0AYF5Y3USV/GBDIfR7UtUwMtH5FPvJU+BDE=
+			2mNkqEk9e/EjhlA9QP0l+Lc89pcy0NXnCHe4lsOqtyI=
 			</data>
 		</dict>
 		<key>Modules/MyTour.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q65nqkhiqUScS5Y3uip6iVVu7FPUwbIXCVqkGoaPl2k=
+			kY3Z4Xjzgsu3ZED5Yd3n7ZzUae868T4xR4M3imG2D50=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
