@@ -8,7 +8,7 @@
 import Foundation
 
 public final class Test {
-    init() {
+    public init() {
         test()
     }
     
